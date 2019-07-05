@@ -1,9 +1,7 @@
 body {
   font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
   color: #333333;
-  background: #e9ba52
-    url(http://themes.googleusercontent.com/image?id=0BwVBOzw_-hbMN2IwNWVhMDktYzNlYy00MGY2LWI5MTYtMTQ2ZTRkMmI3YTE1)
-    repeat fixed top center
+  background: #e9ba52 url(/52verses/bg.jpg) repeat fixed top center
     /* Credit: mammuth (http://www.istockphoto.com/googleimages.php?id=10364914&platform=blogger) */;
 }
 html body .content-outer {
